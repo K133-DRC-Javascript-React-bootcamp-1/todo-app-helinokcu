@@ -4,7 +4,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
 button {
 	margin: 0;
 	padding: 0;
@@ -24,8 +23,8 @@ button {
 body {
 	font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	line-height: 1.4em;
-	background: #f5f5f5;
-	color: #4d4d4d;
+	background: rgba(243, 159, 159, 0.7);
+	color: #874b4b;
 	min-width: 230px;
 	max-width: 550px;
 	margin: 0 auto;

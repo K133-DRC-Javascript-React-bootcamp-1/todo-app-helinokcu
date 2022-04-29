@@ -20,7 +20,7 @@ function Form() {
   return (
     <div>
         <form onSubmit={handleSubmit}>
-            <input className="new-todo" placeholder="What needs to be done?" autoFocus value={title} onChange={(e) => setTitle(e.target.value)}/>
+            <input className="new-todo" placeholder="Add Task" autoFocus value={title} onChange={(e) => setTitle(e.target.value)}/>
         </form>
     </div>
   )
